@@ -10,8 +10,6 @@ https://drive.google.com/file/d/1T8Bj1ZL5hXQ9rs7XCu7zhqWTIPKemkRv/view
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [License](#license)
 ## Installation
 
