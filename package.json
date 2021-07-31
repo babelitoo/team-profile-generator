@@ -1,26 +1,25 @@
 {
     "name": "team-profile-generator",
     "version": "1.0.0",
-    "description": "Wekk 10 OOP HW",
+    "description": "Week 10 OOP HW",
     "main": "app.js",
     "directories": {
-    "lib": "lib",
-    "test": "test"
+        "lib": "lib",
+        "test": "test"
     },
     "scripts": {
-    "test": "jest --verbose test/*"
+        "test": "jest --verbose test/*"
     },
     "repository": {
-    "type": "git",
-    "url": "https://github.com/babelitoo/team-profile-generator"
+        "type": "git",
+        "url": "https://github.com/babelitoo/team-profile-generator"
     },
     "author": "Gabriel Carrillo",
     "license": "ISC",
     "dependencies": {
-    "inquirer": "^8.1.2"
+        "inquirer": "^8.1.2"
     },
     "devDependencies": {
         "jest": "^27.0.6"
     }
-    
 }
